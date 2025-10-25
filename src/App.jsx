@@ -67,7 +67,7 @@ function App() {
             </p>
             <p className="signature">
               Always,
-              <br /> <strong>[Cutooo]</strong>
+              <br /> <strong>Cutooo</strong>
             </p>
           </div>
         </div>
