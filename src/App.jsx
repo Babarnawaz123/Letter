@@ -31,6 +31,14 @@ function App() {
           <button className="open-btn pulse" onClick={openLetter}>
             Open the Letter 💖
           </button>
+          <div className="hearts">
+            <span>💖</span>
+            <span>💘</span>
+            <span>💞</span>
+            <span>💕</span>
+            <span>💓</span>
+            <span>💗</span>
+          </div>
         </div>
       )}
 
